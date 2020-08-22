@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteAspCoreBitzen", "TesteAspCoreBitzen\TesteAspCoreBitzen.csproj", "{E55F525A-57DA-49D7-B973-EDE876AAF8A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E55F525A-57DA-49D7-B973-EDE876AAF8A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E55F525A-57DA-49D7-B973-EDE876AAF8A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E55F525A-57DA-49D7-B973-EDE876AAF8A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E55F525A-57DA-49D7-B973-EDE876AAF8A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C135A2E7-712C-417A-A05C-2F13A51DEC14}
+	EndGlobalSection
+EndGlobal

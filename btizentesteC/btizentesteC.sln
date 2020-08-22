@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "btizentesteC", "btizentesteC\btizentesteC.csproj", "{E5FF9071-E9C3-4778-A95F-E56BF3EB2AE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5FF9071-E9C3-4778-A95F-E56BF3EB2AE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5FF9071-E9C3-4778-A95F-E56BF3EB2AE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5FF9071-E9C3-4778-A95F-E56BF3EB2AE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5FF9071-E9C3-4778-A95F-E56BF3EB2AE1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {025373B3-4030-4BC4-BE4D-E530BDA51038}
+	EndGlobalSection
+EndGlobal
